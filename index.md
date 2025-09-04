@@ -12,3 +12,7 @@ var myVar = "Hello, world!";
 ```
 
 `1 + 1 = 2`
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
